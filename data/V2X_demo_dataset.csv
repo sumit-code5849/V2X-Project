@@ -1,0 +1,1201 @@
+Message ID,Source Vehicle,Destination Vehicle,Message Type,Message Content,Priority,Spam
+V2X-0001,V39,V26,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0002,V51,V12,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0003,V44,V45,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0004,V47,V50,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0005,V11,V55,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0006,V38,V33,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0007,V6,V33,Hazard,Cracked road surface reported ahead,High,No
+V2X-0008,V4,V17,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0009,V42,V21,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0010,V58,V40,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0011,V22,V28,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0012,V3,V44,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0013,V22,V58,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0014,V20,V5,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0015,V28,V8,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0016,V29,V34,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0017,V10,V50,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0018,V42,V46,Hazard,Cracked road surface reported ahead,High,No
+V2X-0019,V50,V23,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0020,V18,V38,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0021,V48,V1,Hazard,Cracked road surface reported ahead,High,No
+V2X-0022,V47,V28,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0023,V33,V28,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0024,V34,V15,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0025,V39,V28,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0026,V34,V34,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0027,V6,V33,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0028,V18,V21,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0029,V17,V25,Hazard,Cracked road surface reported ahead,High,No
+V2X-0030,V51,V49,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0031,V55,V18,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0032,V40,V30,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0033,V25,V24,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0034,V49,V20,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0035,V46,V43,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0036,V28,V54,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0037,V30,V42,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0038,V27,V15,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0039,V36,V22,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0040,V6,V20,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0041,V30,V42,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0042,V16,V16,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0043,V47,V27,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0044,V17,V27,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0045,V42,V12,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0046,V19,V33,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0047,V2,V45,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0048,V43,V19,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0049,V6,V39,Traffic,Traffic queue building on highway,Medium,No
+V2X-0050,V5,V47,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0051,V12,V20,Traffic,Traffic queue building on highway,Medium,No
+V2X-0052,V9,V11,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0053,V18,V55,Hazard,Cracked road surface reported ahead,High,No
+V2X-0054,V35,V37,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0055,V9,V57,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0056,V29,V4,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0057,V40,V29,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0058,V56,V32,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0059,V57,V20,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0060,V31,V17,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0061,V1,V53,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0062,V9,V19,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0063,V8,V17,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0064,V39,V56,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0065,V37,V55,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0066,V14,V9,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0067,V19,V49,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0068,V48,V12,Hazard,Cracked road surface reported ahead,High,No
+V2X-0069,V37,V31,Hazard,Cracked road surface reported ahead,High,No
+V2X-0070,V16,V11,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0071,V18,V26,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0072,V59,V6,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0073,V14,V53,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0074,V31,V2,Hazard,Cracked road surface reported ahead,High,No
+V2X-0075,V25,V23,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0076,V6,V23,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0077,V56,V15,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0078,V8,V53,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0079,V22,V36,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0080,V52,V17,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0081,V19,V58,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0082,V30,V56,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0083,V17,V8,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0084,V40,V18,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0085,V46,V35,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0086,V12,V2,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0087,V49,V8,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0088,V8,V5,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0089,V8,V29,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0090,V40,V31,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0091,V30,V2,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0092,V33,V50,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0093,V45,V25,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0094,V58,V11,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0095,V26,V28,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0096,V47,V40,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0097,V15,V48,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0098,V14,V46,Traffic,Traffic queue building on highway,Medium,No
+V2X-0099,V45,V36,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0100,V25,V55,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0101,V57,V52,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0102,V27,V16,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0103,V50,V49,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0104,V7,V29,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0105,V12,V49,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0106,V19,V55,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0107,V10,V17,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0108,V10,V32,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0109,V12,V11,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0110,V4,V31,Traffic,Traffic queue building on highway,Medium,No
+V2X-0111,V49,V19,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0112,V30,V47,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0113,V30,V11,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0114,V14,V38,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0115,V17,V3,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0116,V23,V53,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0117,V7,V4,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0118,V55,V50,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0119,V15,V58,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0120,V48,V38,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0121,V44,V8,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0122,V32,V58,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0123,V47,V23,Traffic,Traffic queue building on highway,Medium,No
+V2X-0124,V38,V4,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0125,V10,V25,Traffic,Traffic queue building on highway,Medium,No
+V2X-0126,V14,V30,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0127,V26,V23,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0128,V41,V47,Hazard,Cracked road surface reported ahead,High,No
+V2X-0129,V51,V29,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0130,V20,V57,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0131,V12,V48,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0132,V32,V5,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0133,V3,V12,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0134,V41,V55,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0135,V38,V6,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0136,V43,V31,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0137,V57,V57,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0138,V48,V27,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0139,V55,V56,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0140,V15,V3,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0141,V10,V11,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0142,V34,V29,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0143,V43,V46,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0144,V48,V14,Traffic,Traffic queue building on highway,Medium,No
+V2X-0145,V50,V8,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0146,V7,V29,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0147,V55,V46,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0148,V40,V44,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0149,V38,V16,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0150,V22,V19,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0151,V6,V56,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0152,V26,V8,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0153,V56,V56,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0154,V47,V9,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0155,V1,V43,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0156,V57,V16,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0157,V8,V8,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0158,V35,V33,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0159,V43,V49,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0160,V18,V19,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0161,V31,V55,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0162,V47,V24,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0163,V41,V17,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0164,V50,V40,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0165,V9,V39,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0166,V6,V51,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0167,V27,V9,Hazard,Cracked road surface reported ahead,High,No
+V2X-0168,V46,V1,Hazard,Cracked road surface reported ahead,High,No
+V2X-0169,V54,V3,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0170,V1,V49,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0171,V57,V15,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0172,V51,V40,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0173,V8,V46,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0174,V42,V27,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0175,V7,V8,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0176,V30,V33,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0177,V27,V10,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0178,V44,V1,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0179,V31,V58,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0180,V37,V5,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0181,V13,V53,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0182,V42,V22,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0183,V23,V58,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0184,V28,V16,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0185,V27,V9,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0186,V56,V25,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0187,V16,V39,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0188,V56,V28,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0189,V54,V28,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0190,V8,V56,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0191,V37,V26,Hazard,Cracked road surface reported ahead,High,No
+V2X-0192,V37,V58,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0193,V50,V13,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0194,V35,V55,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0195,V29,V28,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0196,V14,V21,Traffic,Traffic queue building on highway,Medium,No
+V2X-0197,V33,V39,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0198,V39,V15,Hazard,Cracked road surface reported ahead,High,No
+V2X-0199,V12,V26,Traffic,Traffic queue building on highway,Medium,No
+V2X-0200,V37,V57,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0201,V33,V53,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0202,V55,V44,Traffic,Traffic queue building on highway,Medium,No
+V2X-0203,V15,V19,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0204,V50,V3,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0205,V52,V50,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0206,V4,V34,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0207,V44,V19,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0208,V44,V26,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0209,V25,V22,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0210,V10,V40,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0211,V30,V57,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0212,V59,V26,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0213,V9,V42,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0214,V23,V20,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0215,V45,V31,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0216,V10,V25,Hazard,Cracked road surface reported ahead,High,No
+V2X-0217,V57,V33,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0218,V50,V39,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0219,V50,V24,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0220,V5,V3,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0221,V55,V9,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0222,V11,V56,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0223,V12,V18,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0224,V29,V43,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0225,V16,V15,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0226,V50,V33,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0227,V47,V46,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0228,V4,V44,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0229,V55,V50,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0230,V29,V41,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0231,V26,V54,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0232,V35,V23,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0233,V51,V32,Traffic,Traffic queue building on highway,Medium,No
+V2X-0234,V7,V59,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0235,V24,V11,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0236,V20,V16,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0237,V41,V27,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0238,V19,V34,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0239,V11,V42,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0240,V38,V48,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0241,V59,V45,Traffic,Traffic queue building on highway,Medium,No
+V2X-0242,V54,V17,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0243,V28,V52,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0244,V7,V48,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0245,V57,V39,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0246,V58,V10,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0247,V58,V45,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0248,V21,V18,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0249,V57,V29,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0250,V59,V20,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0251,V5,V47,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0252,V6,V32,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0253,V27,V49,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0254,V3,V57,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0255,V55,V40,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0256,V43,V1,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0257,V24,V48,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0258,V3,V7,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0259,V27,V1,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0260,V31,V32,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0261,V42,V53,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0262,V40,V25,Hazard,Cracked road surface reported ahead,High,No
+V2X-0263,V46,V51,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0264,V18,V27,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0265,V33,V53,Hazard,Cracked road surface reported ahead,High,No
+V2X-0266,V12,V40,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0267,V26,V48,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0268,V59,V46,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0269,V8,V34,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0270,V59,V44,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0271,V30,V55,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0272,V30,V7,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0273,V21,V12,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0274,V2,V57,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0275,V27,V25,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0276,V57,V30,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0277,V21,V53,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0278,V14,V53,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0279,V59,V44,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0280,V35,V2,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0281,V18,V20,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0282,V10,V1,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0283,V15,V47,Traffic,Traffic queue building on highway,Medium,No
+V2X-0284,V47,V51,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0285,V35,V40,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0286,V49,V16,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0287,V11,V34,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0288,V7,V19,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0289,V56,V26,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0290,V3,V44,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0291,V4,V15,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0292,V4,V16,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0293,V3,V4,Hazard,Cracked road surface reported ahead,High,No
+V2X-0294,V7,V46,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0295,V27,V13,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0296,V18,V14,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0297,V18,V7,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0298,V51,V7,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0299,V2,V20,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0300,V26,V28,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0301,V14,V20,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0302,V15,V51,Traffic,Traffic queue building on highway,Medium,No
+V2X-0303,V44,V20,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0304,V55,V30,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0305,V12,V9,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0306,V3,V2,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0307,V56,V12,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0308,V2,V42,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0309,V6,V34,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0310,V35,V30,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0311,V32,V37,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0312,V10,V59,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0313,V15,V55,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0314,V27,V54,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0315,V44,V48,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0316,V19,V7,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0317,V31,V25,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0318,V19,V51,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0319,V23,V2,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0320,V10,V50,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0321,V49,V19,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0322,V53,V14,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0323,V40,V41,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0324,V11,V8,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0325,V55,V1,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0326,V59,V23,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0327,V6,V52,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0328,V32,V11,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0329,V27,V36,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0330,V18,V58,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0331,V4,V36,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0332,V14,V50,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0333,V11,V33,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0334,V24,V32,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0335,V16,V45,Traffic,Traffic queue building on highway,Medium,No
+V2X-0336,V59,V55,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0337,V3,V47,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0338,V31,V56,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0339,V39,V24,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0340,V41,V22,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0341,V41,V12,Hazard,Cracked road surface reported ahead,High,No
+V2X-0342,V51,V15,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0343,V52,V44,Traffic,Traffic queue building on highway,Medium,No
+V2X-0344,V52,V25,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0345,V39,V44,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0346,V47,V27,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0347,V42,V52,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0348,V48,V1,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0349,V27,V2,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0350,V58,V48,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0351,V38,V24,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0352,V19,V34,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0353,V1,V36,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0354,V56,V4,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0355,V22,V24,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0356,V8,V19,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0357,V2,V57,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0358,V15,V28,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0359,V21,V17,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0360,V12,V29,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0361,V27,V16,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0362,V3,V6,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0363,V40,V30,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0364,V7,V8,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0365,V18,V52,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0366,V54,V37,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0367,V35,V5,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0368,V9,V14,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0369,V49,V50,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0370,V37,V31,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0371,V27,V10,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0372,V51,V31,Traffic,Traffic queue building on highway,Medium,No
+V2X-0373,V51,V22,Hazard,Cracked road surface reported ahead,High,No
+V2X-0374,V24,V2,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0375,V36,V56,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0376,V8,V43,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0377,V11,V50,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0378,V11,V4,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0379,V52,V42,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0380,V51,V45,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0381,V43,V15,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0382,V15,V3,Hazard,Cracked road surface reported ahead,High,No
+V2X-0383,V1,V46,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0384,V31,V27,Traffic,Traffic queue building on highway,Medium,No
+V2X-0385,V49,V26,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0386,V8,V11,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0387,V50,V57,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0388,V10,V57,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0389,V52,V2,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0390,V8,V1,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0391,V5,V28,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0392,V24,V39,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0393,V9,V49,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0394,V44,V50,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0395,V41,V21,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0396,V3,V4,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0397,V4,V45,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0398,V47,V13,Hazard,Cracked road surface reported ahead,High,No
+V2X-0399,V17,V38,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0400,V1,V17,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0401,V24,V28,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0402,V8,V47,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0403,V10,V55,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0404,V19,V43,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0405,V39,V36,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0406,V28,V32,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0407,V6,V41,Hazard,Cracked road surface reported ahead,High,No
+V2X-0408,V50,V59,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0409,V45,V45,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0410,V59,V45,Traffic,Traffic queue building on highway,Medium,No
+V2X-0411,V22,V56,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0412,V22,V24,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0413,V9,V43,Traffic,Traffic queue building on highway,Medium,No
+V2X-0414,V31,V20,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0415,V24,V21,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0416,V25,V16,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0417,V20,V40,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0418,V39,V18,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0419,V48,V12,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0420,V46,V45,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0421,V11,V8,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0422,V17,V17,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0423,V54,V54,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0424,V12,V33,Traffic,Traffic queue building on highway,Medium,No
+V2X-0425,V35,V36,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0426,V16,V4,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0427,V31,V24,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0428,V41,V32,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0429,V57,V37,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0430,V27,V50,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0431,V51,V33,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0432,V29,V48,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0433,V24,V54,Hazard,Cracked road surface reported ahead,High,No
+V2X-0434,V55,V56,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0435,V59,V46,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0436,V45,V37,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0437,V36,V39,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0438,V18,V28,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0439,V17,V13,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0440,V49,V34,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0441,V3,V20,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0442,V48,V14,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0443,V36,V7,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0444,V24,V17,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0445,V2,V25,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0446,V37,V18,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0447,V56,V9,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0448,V47,V29,Hazard,Cracked road surface reported ahead,High,No
+V2X-0449,V27,V7,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0450,V50,V10,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0451,V15,V30,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0452,V41,V1,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0453,V2,V31,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0454,V6,V7,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0455,V18,V28,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0456,V26,V22,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0457,V20,V47,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0458,V50,V56,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0459,V14,V45,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0460,V48,V14,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0461,V34,V52,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0462,V6,V19,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0463,V31,V4,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0464,V1,V51,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0465,V20,V39,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0466,V49,V2,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0467,V16,V49,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0468,V32,V3,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0469,V33,V44,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0470,V16,V12,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0471,V43,V28,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0472,V22,V37,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0473,V57,V8,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0474,V6,V10,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0475,V4,V24,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0476,V59,V59,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0477,V55,V24,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0478,V52,V57,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0479,V37,V14,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0480,V39,V15,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0481,V45,V33,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0482,V49,V28,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0483,V55,V36,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0484,V29,V18,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0485,V7,V49,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0486,V34,V45,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0487,V10,V19,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0488,V34,V50,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0489,V1,V13,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0490,V53,V46,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0491,V6,V28,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0492,V29,V29,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0493,V28,V35,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0494,V12,V2,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0495,V25,V13,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0496,V25,V5,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0497,V11,V19,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0498,V22,V31,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0499,V55,V37,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0500,V13,V2,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0501,V45,V7,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0502,V7,V25,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0503,V57,V45,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0504,V49,V9,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0505,V13,V24,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0506,V20,V6,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0507,V55,V11,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0508,V58,V32,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0509,V57,V23,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0510,V24,V28,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0511,V13,V12,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0512,V7,V2,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0513,V40,V25,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0514,V26,V23,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0515,V44,V24,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0516,V20,V58,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0517,V18,V39,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0518,V33,V58,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0519,V32,V6,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0520,V10,V58,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0521,V47,V34,Hazard,Cracked road surface reported ahead,High,No
+V2X-0522,V45,V32,Hazard,Cracked road surface reported ahead,High,No
+V2X-0523,V11,V36,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0524,V40,V39,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0525,V7,V55,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0526,V35,V37,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0527,V54,V34,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0528,V2,V9,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0529,V12,V28,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0530,V1,V56,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0531,V59,V23,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0532,V34,V40,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0533,V9,V30,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0534,V32,V5,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0535,V51,V12,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0536,V36,V35,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0537,V23,V48,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0538,V29,V38,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0539,V54,V26,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0540,V22,V8,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0541,V14,V50,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0542,V17,V44,Hazard,Cracked road surface reported ahead,High,No
+V2X-0543,V56,V31,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0544,V28,V35,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0545,V7,V23,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0546,V37,V35,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0547,V55,V13,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0548,V9,V30,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0549,V31,V56,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0550,V24,V25,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0551,V35,V39,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0552,V52,V22,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0553,V22,V3,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0554,V32,V29,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0555,V13,V42,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0556,V18,V23,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0557,V45,V50,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0558,V7,V1,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0559,V43,V32,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0560,V55,V42,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0561,V59,V4,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0562,V58,V47,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0563,V12,V57,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0564,V6,V8,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0565,V8,V58,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0566,V50,V37,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0567,V18,V33,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0568,V33,V13,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0569,V46,V29,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0570,V27,V17,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0571,V7,V6,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0572,V5,V43,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0573,V50,V37,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0574,V3,V51,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0575,V49,V13,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0576,V31,V52,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0577,V34,V3,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0578,V10,V9,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0579,V22,V54,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0580,V32,V47,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0581,V51,V37,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0582,V51,V8,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0583,V28,V14,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0584,V26,V51,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0585,V8,V32,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0586,V11,V11,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0587,V10,V26,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0588,V14,V54,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0589,V46,V12,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0590,V7,V32,Traffic,Traffic queue building on highway,Medium,No
+V2X-0591,V56,V26,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0592,V59,V31,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0593,V58,V4,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0594,V35,V43,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0595,V36,V58,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0596,V28,V17,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0597,V48,V49,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0598,V39,V54,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0599,V12,V51,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0600,V38,V26,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0601,V55,V57,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0602,V22,V38,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0603,V3,V44,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0604,V28,V36,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0605,V23,V12,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0606,V37,V14,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0607,V34,V7,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0608,V57,V17,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0609,V20,V32,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0610,V53,V10,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0611,V45,V22,Hazard,Cracked road surface reported ahead,High,No
+V2X-0612,V29,V23,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0613,V23,V8,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0614,V33,V9,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0615,V15,V47,Traffic,Traffic queue building on highway,Medium,No
+V2X-0616,V45,V13,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0617,V17,V15,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0618,V22,V14,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0619,V43,V15,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0620,V45,V11,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0621,V1,V26,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0622,V18,V54,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0623,V4,V55,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0624,V30,V2,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0625,V28,V37,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0626,V53,V30,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0627,V45,V5,Traffic,Traffic queue building on highway,Medium,No
+V2X-0628,V1,V28,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0629,V27,V34,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0630,V33,V59,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0631,V12,V47,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0632,V51,V40,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0633,V10,V19,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0634,V24,V49,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0635,V26,V21,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0636,V33,V13,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0637,V45,V4,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0638,V57,V4,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0639,V40,V12,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0640,V11,V58,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0641,V46,V9,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0642,V40,V25,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0643,V21,V57,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0644,V16,V59,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0645,V46,V46,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0646,V46,V44,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0647,V40,V1,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0648,V34,V53,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0649,V53,V31,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0650,V48,V9,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0651,V10,V22,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0652,V12,V34,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0653,V44,V51,Traffic,Traffic queue building on highway,Medium,No
+V2X-0654,V38,V8,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0655,V39,V24,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0656,V55,V59,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0657,V58,V6,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0658,V28,V11,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0659,V15,V18,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0660,V47,V32,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0661,V36,V17,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0662,V16,V2,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0663,V55,V14,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0664,V50,V16,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0665,V47,V38,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0666,V47,V24,Hazard,Cracked road surface reported ahead,High,No
+V2X-0667,V15,V51,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0668,V14,V51,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0669,V6,V37,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0670,V45,V8,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0671,V7,V43,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0672,V27,V12,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0673,V3,V49,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0674,V45,V25,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0675,V19,V30,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0676,V30,V51,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0677,V57,V54,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0678,V15,V18,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0679,V48,V12,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0680,V47,V1,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0681,V10,V59,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0682,V21,V39,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0683,V14,V6,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0684,V25,V6,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0685,V36,V23,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0686,V58,V47,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0687,V13,V20,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0688,V36,V56,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0689,V27,V13,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0690,V43,V36,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0691,V27,V21,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0692,V52,V50,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0693,V52,V4,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0694,V45,V31,Hazard,Cracked road surface reported ahead,High,No
+V2X-0695,V44,V53,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0696,V13,V25,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0697,V47,V14,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0698,V2,V27,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0699,V22,V44,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0700,V32,V8,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0701,V19,V12,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0702,V53,V4,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0703,V8,V9,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0704,V58,V41,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0705,V49,V10,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0706,V13,V12,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0707,V4,V59,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0708,V5,V32,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0709,V6,V46,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0710,V38,V19,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0711,V56,V43,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0712,V27,V10,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0713,V25,V47,Hazard,Cracked road surface reported ahead,High,No
+V2X-0714,V16,V45,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0715,V41,V20,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0716,V41,V53,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0717,V13,V19,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0718,V13,V39,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0719,V59,V34,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0720,V18,V17,Traffic,Traffic queue building on highway,Medium,No
+V2X-0721,V10,V37,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0722,V8,V37,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0723,V36,V5,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0724,V27,V26,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0725,V20,V27,Hazard,Cracked road surface reported ahead,High,No
+V2X-0726,V44,V50,Hazard,Cracked road surface reported ahead,High,No
+V2X-0727,V3,V45,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0728,V28,V5,Traffic,Traffic queue building on highway,Medium,No
+V2X-0729,V55,V30,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0730,V32,V59,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0731,V25,V31,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0732,V29,V20,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0733,V58,V57,Traffic,Traffic queue building on highway,Medium,No
+V2X-0734,V27,V26,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0735,V35,V1,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0736,V26,V32,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0737,V13,V34,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0738,V10,V58,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0739,V12,V20,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0740,V38,V18,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0741,V15,V54,Hazard,Cracked road surface reported ahead,High,No
+V2X-0742,V30,V30,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0743,V48,V14,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0744,V17,V41,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0745,V45,V59,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0746,V59,V21,Traffic,Traffic queue building on highway,Medium,No
+V2X-0747,V24,V56,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0748,V13,V40,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0749,V56,V26,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0750,V59,V55,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0751,V57,V16,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0752,V19,V5,Traffic,Traffic queue building on highway,Medium,No
+V2X-0753,V34,V38,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0754,V25,V48,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0755,V32,V8,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0756,V12,V59,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0757,V7,V45,Hazard,Cracked road surface reported ahead,High,No
+V2X-0758,V33,V58,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0759,V16,V39,Hazard,Cracked road surface reported ahead,High,No
+V2X-0760,V17,V1,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0761,V48,V2,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0762,V51,V31,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0763,V40,V27,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0764,V5,V37,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0765,V33,V11,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0766,V54,V41,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0767,V48,V39,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0768,V43,V57,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0769,V34,V18,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0770,V29,V44,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0771,V7,V21,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0772,V42,V20,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0773,V15,V37,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0774,V46,V14,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0775,V52,V29,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0776,V36,V11,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0777,V34,V27,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0778,V25,V9,Hazard,Cracked road surface reported ahead,High,No
+V2X-0779,V26,V12,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0780,V55,V18,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0781,V31,V1,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0782,V46,V12,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0783,V12,V33,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0784,V5,V4,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0785,V29,V25,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0786,V34,V40,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0787,V42,V44,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0788,V51,V43,Traffic,Traffic queue building on highway,Medium,No
+V2X-0789,V55,V58,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0790,V44,V58,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0791,V43,V28,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0792,V56,V6,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0793,V39,V23,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0794,V51,V35,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0795,V8,V16,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0796,V41,V32,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0797,V40,V40,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0798,V21,V25,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0799,V9,V17,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0800,V20,V44,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0801,V3,V27,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0802,V57,V12,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0803,V41,V29,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0804,V9,V12,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0805,V32,V17,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0806,V9,V41,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0807,V16,V17,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0808,V2,V19,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0809,V45,V7,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0810,V1,V20,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0811,V46,V48,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0812,V23,V13,Traffic,Traffic queue building on highway,Medium,No
+V2X-0813,V38,V31,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0814,V21,V44,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0815,V50,V56,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0816,V2,V15,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0817,V46,V47,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0818,V38,V59,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0819,V22,V27,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0820,V33,V47,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0821,V12,V1,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0822,V27,V31,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0823,V9,V58,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0824,V29,V13,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0825,V59,V16,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0826,V30,V33,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0827,V44,V30,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0828,V58,V52,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0829,V10,V27,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0830,V17,V51,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0831,V54,V58,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0832,V12,V12,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0833,V34,V12,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0834,V41,V30,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0835,V30,V21,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0836,V21,V28,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0837,V6,V51,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0838,V34,V3,Hazard,Cracked road surface reported ahead,High,No
+V2X-0839,V44,V3,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0840,V30,V57,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0841,V21,V8,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0842,V48,V14,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0843,V25,V43,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0844,V59,V32,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0845,V49,V32,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0846,V11,V21,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0847,V36,V16,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0848,V3,V45,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0849,V49,V2,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0850,V17,V54,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0851,V58,V21,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0852,V20,V36,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0853,V18,V45,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0854,V59,V3,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0855,V56,V19,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0856,V46,V44,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0857,V11,V26,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0858,V46,V46,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0859,V30,V6,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0860,V59,V3,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0861,V8,V3,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-0862,V46,V48,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0863,V21,V6,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0864,V17,V51,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0865,V28,V16,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0866,V24,V3,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0867,V51,V53,Hazard,Cracked road surface reported ahead,High,No
+V2X-0868,V26,V44,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0869,V28,V16,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0870,V30,V46,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0871,V33,V25,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0872,V49,V40,Hazard,Cracked road surface reported ahead,High,No
+V2X-0873,V30,V58,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0874,V50,V55,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0875,V14,V49,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0876,V35,V10,Hazard,Cracked road surface reported ahead,High,No
+V2X-0877,V21,V34,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0878,V43,V20,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0879,V1,V4,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0880,V31,V5,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0881,V24,V56,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0882,V53,V16,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0883,V20,V43,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0884,V27,V43,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0885,V46,V27,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0886,V52,V46,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0887,V53,V7,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0888,V55,V21,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0889,V41,V27,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0890,V25,V33,Hazard,Cracked road surface reported ahead,High,No
+V2X-0891,V29,V42,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0892,V4,V7,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0893,V35,V39,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0894,V6,V53,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0895,V29,V9,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0896,V19,V52,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0897,V50,V4,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0898,V22,V40,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0899,V42,V16,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0900,V37,V15,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-0901,V59,V46,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0902,V23,V16,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0903,V8,V54,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0904,V47,V42,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0905,V32,V59,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0906,V28,V27,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0907,V42,V45,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0908,V30,V50,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0909,V55,V37,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0910,V45,V31,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0911,V6,V33,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0912,V13,V45,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0913,V2,V12,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0914,V21,V19,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0915,V30,V53,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0916,V46,V17,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0917,V10,V42,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0918,V37,V36,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0919,V5,V43,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0920,V3,V57,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0921,V19,V45,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0922,V28,V52,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0923,V47,V31,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0924,V26,V38,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0925,V49,V5,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0926,V23,V45,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0927,V17,V11,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-0928,V46,V37,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0929,V57,V4,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0930,V24,V18,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0931,V20,V13,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0932,V12,V25,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0933,V10,V23,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0934,V49,V44,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0935,V13,V52,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0936,V22,V39,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0937,V42,V5,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0938,V43,V1,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0939,V59,V51,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0940,V50,V18,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0941,V33,V51,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0942,V14,V46,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0943,V53,V29,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0944,V30,V24,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0945,V56,V4,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0946,V29,V7,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0947,V46,V16,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0948,V25,V21,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0949,V26,V20,Traffic,Traffic queue building on highway,Medium,No
+V2X-0950,V19,V52,Hazard,Pothole and debris reported in right lane,High,No
+V2X-0951,V48,V52,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0952,V36,V27,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0953,V6,V15,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0954,V9,V7,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-0955,V11,V59,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0956,V3,V7,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0957,V21,V45,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0958,V22,V19,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0959,V58,V16,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0960,V12,V24,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0961,V14,V47,Traffic,Traffic queue building on highway,Medium,No
+V2X-0962,V45,V24,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0963,V32,V33,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0964,V18,V32,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0965,V54,V58,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0966,V25,V55,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0967,V23,V14,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0968,V32,V51,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0969,V6,V12,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0970,V46,V10,Emergency,Crash reported ahead emergency response required,High,No
+V2X-0971,V7,V5,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0972,V41,V16,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-0973,V53,V43,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0974,V35,V55,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-0975,V4,V35,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0976,V40,V40,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0977,V30,V10,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0978,V12,V20,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0979,V4,V3,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0980,V24,V45,Traffic,Traffic queue building on highway,Medium,No
+V2X-0981,V37,V43,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-0982,V38,V48,Spam,Free promotion available click the link to win,Low,Yes
+V2X-0983,V2,V36,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0984,V6,V50,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-0985,V33,V41,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-0986,V6,V11,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-0987,V54,V49,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-0988,V36,V18,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0989,V50,V51,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-0990,V43,V16,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-0991,V47,V9,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-0992,V12,V55,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0993,V59,V14,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-0994,V7,V3,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0995,V50,V46,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-0996,V48,V55,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-0997,V12,V24,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-0998,V4,V55,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-0999,V59,V33,Traffic,Traffic queue building on highway,Medium,No
+V2X-1000,V13,V41,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1001,V38,V41,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1002,V57,V43,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1003,V36,V56,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1004,V56,V47,Traffic,Traffic queue building on highway,Medium,No
+V2X-1005,V41,V25,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-1006,V8,V42,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1007,V22,V9,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1008,V14,V59,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1009,V24,V34,Hazard,Cracked road surface reported ahead,High,No
+V2X-1010,V22,V18,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1011,V57,V54,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1012,V54,V16,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1013,V37,V38,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1014,V41,V3,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1015,V11,V47,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1016,V23,V48,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1017,V1,V26,Traffic,Traffic queue building on highway,Medium,No
+V2X-1018,V21,V9,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1019,V3,V58,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-1020,V11,V56,Hazard,Pothole and debris reported in right lane,High,No
+V2X-1021,V15,V30,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1022,V38,V20,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1023,V59,V2,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1024,V16,V52,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1025,V37,V41,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1026,V45,V40,Traffic,Traffic queue building on highway,Medium,No
+V2X-1027,V29,V3,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1028,V6,V5,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1029,V39,V33,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1030,V45,V22,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1031,V16,V42,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1032,V51,V9,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1033,V17,V50,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-1034,V5,V21,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1035,V52,V20,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-1036,V10,V6,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-1037,V38,V53,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1038,V39,V49,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-1039,V30,V6,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1040,V25,V34,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1041,V50,V40,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1042,V27,V29,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1043,V28,V37,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1044,V14,V4,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1045,V55,V49,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1046,V30,V6,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1047,V18,V12,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1048,V51,V54,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1049,V54,V57,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1050,V14,V54,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1051,V43,V34,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-1052,V21,V40,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1053,V35,V30,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1054,V53,V42,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1055,V15,V28,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1056,V13,V23,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1057,V49,V45,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1058,V34,V16,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1059,V21,V44,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1060,V48,V11,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1061,V11,V25,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1062,V49,V4,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1063,V13,V24,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1064,V34,V45,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1065,V41,V24,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1066,V24,V11,Hazard,Pothole and debris reported in right lane,High,No
+V2X-1067,V24,V53,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1068,V5,V23,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1069,V34,V27,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1070,V24,V19,Traffic,Traffic queue building on highway,Medium,No
+V2X-1071,V8,V28,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-1072,V49,V4,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1073,V35,V51,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1074,V10,V40,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1075,V22,V15,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1076,V40,V29,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1077,V23,V23,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1078,V52,V30,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1079,V48,V49,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1080,V2,V56,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-1081,V40,V32,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1082,V23,V34,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1083,V30,V53,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1084,V14,V33,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1085,V5,V15,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1086,V15,V2,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1087,V20,V30,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1088,V59,V25,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1089,V55,V48,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1090,V21,V26,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-1091,V50,V47,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1092,V9,V31,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-1093,V42,V18,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1094,V33,V33,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-1095,V48,V11,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1096,V32,V6,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1097,V18,V50,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1098,V11,V51,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1099,V11,V13,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1100,V12,V59,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1101,V3,V43,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1102,V50,V34,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1103,V54,V52,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1104,V42,V34,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1105,V45,V55,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1106,V6,V2,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1107,V30,V27,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1108,V40,V49,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1109,V18,V48,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1110,V53,V13,Emergency,Crash reported ahead emergency response required,High,No
+V2X-1111,V39,V39,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1112,V31,V32,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1113,V47,V7,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1114,V38,V19,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-1115,V15,V41,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1116,V32,V27,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1117,V42,V5,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1118,V44,V48,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1119,V32,V37,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-1120,V21,V45,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1121,V1,V30,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1122,V4,V36,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1123,V38,V20,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1124,V44,V54,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1125,V12,V52,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1126,V41,V27,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1127,V31,V17,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-1128,V36,V7,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-1129,V40,V41,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1130,V4,V58,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1131,V4,V28,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1132,V13,V31,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1133,V51,V27,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1134,V28,V45,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1135,V57,V39,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1136,V16,V37,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-1137,V23,V26,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1138,V26,V45,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1139,V53,V14,Traffic,Traffic queue building on highway,Medium,No
+V2X-1140,V4,V43,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1141,V17,V26,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-1142,V49,V32,Roadwork,Construction vehicles entering roadway proceed carefully,Medium,No
+V2X-1143,V28,V39,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1144,V26,V1,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1145,V41,V31,Roadwork,Road construction ahead lane closed use diversion,Medium,No
+V2X-1146,V19,V25,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-1147,V50,V25,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1148,V33,V14,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1149,V53,V28,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1150,V2,V55,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1151,V8,V17,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1152,V24,V32,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1153,V12,V6,Hazard,Pothole and debris reported in right lane,High,No
+V2X-1154,V33,V28,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1155,V25,V2,Hazard,Pothole and debris reported in right lane,High,No
+V2X-1156,V56,V42,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1157,V53,V58,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1158,V37,V33,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1159,V24,V58,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-1160,V13,V34,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1161,V26,V55,Roadwork,Roadwork crew active on right lane reduce speed,Medium,No
+V2X-1162,V9,V29,Spam,Limited time discount offer claim your prize,Low,Yes
+V2X-1163,V18,V58,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1164,V4,V24,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1165,V52,V9,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1166,V32,V7,Weather,Heavy rain reported road surface is slippery,Medium,No
+V2X-1167,V49,V15,Emergency,Accident detected ahead slow down immediately,High,No
+V2X-1168,V51,V17,Emergency,Ambulance approaching intersection give way now,High,No
+V2X-1169,V33,V1,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1170,V10,V36,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1171,V16,V41,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1172,V35,V21,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1173,V35,V13,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-1174,V34,V55,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1175,V44,V19,Traffic,Traffic queue building on highway,Medium,No
+V2X-1176,V6,V39,Hazard,Collision risk ahead obstacle detected on road,High,No
+V2X-1177,V50,V14,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1178,V49,V40,Hazard,Pothole and debris reported in right lane,High,No
+V2X-1179,V8,V20,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1180,V48,V39,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1181,V6,V46,Emergency,Emergency vehicle approaching from behind clear the lane immediately,High,No
+V2X-1182,V9,V47,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1183,V41,V10,Roadwork,Maintenance zone ahead temporary lane closure,Medium,No
+V2X-1184,V1,V41,Hazard,Cracked road surface reported ahead,High,No
+V2X-1185,V39,V58,Spam,Special deal available congratulations claim now,Low,Yes
+V2X-1186,V6,V7,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1187,V20,V19,Traffic,Congestion reported ahead use alternate route,Medium,No
+V2X-1188,V17,V59,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1189,V12,V39,Traffic,Vehicles moving slowly near intersection,Medium,No
+V2X-1190,V8,V56,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1191,V12,V39,Spam,Free promotion available click the link to win,Low,Yes
+V2X-1192,V42,V37,Weather,Icy road conditions reported near bridge,Medium,No
+V2X-1193,V49,V17,Weather,Storm warning ahead drive with caution,Medium,No
+V2X-1194,V6,V12,Weather,Dense fog ahead visibility is reduced,Medium,No
+V2X-1195,V30,V4,Hazard,Cracked road surface reported ahead,High,No
+V2X-1196,V33,V13,Hazard,Hazard ahead reduce speed and maintain distance,High,No
+V2X-1197,V55,V49,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes
+V2X-1198,V19,V52,Traffic,Traffic queue building on highway,Medium,No
+V2X-1199,V49,V39,Traffic,Heavy traffic ahead expect congestion,Medium,No
+V2X-1200,V13,V45,Spam,Congratulations you won a free vehicle service offer click now,Low,Yes

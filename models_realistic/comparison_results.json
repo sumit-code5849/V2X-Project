@@ -1,0 +1,38 @@
+[
+  {
+    "architecture": "CNN-BiGRU",
+    "type_accuracy": 1.0,
+    "type_precision": 1.0,
+    "type_recall": 1.0,
+    "type_f1": 1.0,
+    "spam_accuracy": 1.0,
+    "runtime_seconds": 34.66622710227966
+  },
+  {
+    "architecture": "CNN-BiLSTM",
+    "type_accuracy": 1.0,
+    "type_precision": 1.0,
+    "type_recall": 1.0,
+    "type_f1": 1.0,
+    "spam_accuracy": 1.0,
+    "runtime_seconds": 34.65197539329529
+  },
+  {
+    "architecture": "CNN-StackLSTM",
+    "type_accuracy": 1.0,
+    "type_precision": 1.0,
+    "type_recall": 1.0,
+    "type_f1": 1.0,
+    "spam_accuracy": 1.0,
+    "runtime_seconds": 36.955429553985596
+  },
+  {
+    "architecture": "CNN-BiRNN",
+    "type_accuracy": 1.0,
+    "type_precision": 1.0,
+    "type_recall": 1.0,
+    "type_f1": 1.0,
+    "spam_accuracy": 1.0,
+    "runtime_seconds": 52.55014443397522
+  }
+]
